@@ -89,7 +89,7 @@ follow these [instructions](https://github.com/CS50DartmouthSU25/home/blob/main/
 6. Clone this repository into your home directory: 
     
     ```bash
-    git clone https://github.com/{{org}}/cs50-dev.git
+    git clone git@github.com:CS50DartmouthSU25/cs50-dev.git
     ```
     
     The result is a subdirectory named `cs50-dev` in which you should do all your development for this course.
